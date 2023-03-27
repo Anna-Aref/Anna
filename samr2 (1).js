@@ -6,3 +6,5 @@ function WordN(anyString, n) {
 String s = scanner.nextLine();
 System.out.println("Введите позицию слова");
 int pos = scanner.nextInt();
+System.out.println("Введите позицию слова");
+int pos = scanner.nextInt();
